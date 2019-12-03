@@ -1,0 +1,12 @@
+{
+  "name": "customize-bootstrap",
+  "version": "1.0.0",
+  "description": "Build set up and procedure to customize bootstrap framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
