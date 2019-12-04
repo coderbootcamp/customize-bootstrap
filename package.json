@@ -9,7 +9,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {},
+  "devDependencies": {
+    "resolve-url-loader": "^3.1.0",
+    "sass": "^1.23.7",
+    "sass-loader": "^8.0.0"
+  },
   "dependencies": {
     "laravel-mix": "^5.0.0"
   }
